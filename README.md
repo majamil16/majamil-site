@@ -19,4 +19,4 @@ This use the `hugo` command which builds your static site in /public -> deploy t
 
 ## Deployment
 
-The site is hosted on Github pages and deployed through [Github actions](https://gohugo.io/hosting-and-deployment/hosting-on-github/#build-hugo-with-github-action).
+The site is hosted on Github pages and deployed through [Github actions](https://gohugo.io/hosting-and-deployment/hosting-on-github/#build-hugo-with-github-action). 
