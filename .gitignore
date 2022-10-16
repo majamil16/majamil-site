@@ -1,1 +1,2 @@
-**/**/draft-*
+# dont track anything with draft in the filename
+**/**/*draft*.md
